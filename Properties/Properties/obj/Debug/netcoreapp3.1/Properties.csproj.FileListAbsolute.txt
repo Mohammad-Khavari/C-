@@ -1,0 +1,14 @@
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.AssemblyReference.cache

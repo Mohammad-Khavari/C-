@@ -1,0 +1,14 @@
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.exe
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.csproj.AssemblyReference.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache

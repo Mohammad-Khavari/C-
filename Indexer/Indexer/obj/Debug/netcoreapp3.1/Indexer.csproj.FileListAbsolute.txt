@@ -1,0 +1,14 @@
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.AssemblyReference.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache

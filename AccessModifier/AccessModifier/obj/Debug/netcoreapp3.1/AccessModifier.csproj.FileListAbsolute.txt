@@ -1,0 +1,14 @@
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.exe
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.deps.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.dev.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csproj.AssemblyReference.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfoInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfo.cs
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csproj.CoreCompileInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.genruntimeconfig.cache

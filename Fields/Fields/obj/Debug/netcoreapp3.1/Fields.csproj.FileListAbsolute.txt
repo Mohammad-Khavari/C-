@@ -1,0 +1,14 @@
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.exe
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.deps.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.dev.json
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.AssemblyReference.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfoInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfo.cs
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.CoreCompileInputs.cache
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.dll
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.pdb
+C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.genruntimeconfig.cache

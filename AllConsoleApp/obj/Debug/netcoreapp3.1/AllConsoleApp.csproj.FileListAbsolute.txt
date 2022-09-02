@@ -1,0 +1,14 @@
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\bin\Debug\netcoreapp3.1\AllConsoleApp.exe
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\bin\Debug\netcoreapp3.1\AllConsoleApp.deps.json
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\bin\Debug\netcoreapp3.1\AllConsoleApp.runtimeconfig.json
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\bin\Debug\netcoreapp3.1\AllConsoleApp.runtimeconfig.dev.json
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\bin\Debug\netcoreapp3.1\AllConsoleApp.dll
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\bin\Debug\netcoreapp3.1\AllConsoleApp.pdb
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\obj\Debug\netcoreapp3.1\AllConsoleApp.csproj.AssemblyReference.cache
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\obj\Debug\netcoreapp3.1\AllConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\obj\Debug\netcoreapp3.1\AllConsoleApp.AssemblyInfoInputs.cache
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\obj\Debug\netcoreapp3.1\AllConsoleApp.AssemblyInfo.cs
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\obj\Debug\netcoreapp3.1\AllConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\obj\Debug\netcoreapp3.1\AllConsoleApp.dll
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\obj\Debug\netcoreapp3.1\AllConsoleApp.pdb
+C:\Users\iCAM\source\repos\CSharp\AllConsoleApp\obj\Debug\netcoreapp3.1\AllConsoleApp.genruntimeconfig.cache
