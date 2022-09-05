@@ -1,0 +1,14 @@
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\bin\Debug\netcoreapp3.1\ConstructorAndInheritance.exe
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\bin\Debug\netcoreapp3.1\ConstructorAndInheritance.deps.json
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\bin\Debug\netcoreapp3.1\ConstructorAndInheritance.runtimeconfig.json
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\bin\Debug\netcoreapp3.1\ConstructorAndInheritance.runtimeconfig.dev.json
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\bin\Debug\netcoreapp3.1\ConstructorAndInheritance.dll
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\bin\Debug\netcoreapp3.1\ConstructorAndInheritance.pdb
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\obj\Debug\netcoreapp3.1\ConstructorAndInheritance.csproj.AssemblyReference.cache
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\obj\Debug\netcoreapp3.1\ConstructorAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\obj\Debug\netcoreapp3.1\ConstructorAndInheritance.AssemblyInfoInputs.cache
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\obj\Debug\netcoreapp3.1\ConstructorAndInheritance.AssemblyInfo.cs
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\obj\Debug\netcoreapp3.1\ConstructorAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\obj\Debug\netcoreapp3.1\ConstructorAndInheritance.dll
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\obj\Debug\netcoreapp3.1\ConstructorAndInheritance.pdb
+C:\Users\iCAM\source\repos\CSharp\ConstructorAndInheritance\ConstructorAndInheritance\obj\Debug\netcoreapp3.1\ConstructorAndInheritance.genruntimeconfig.cache
