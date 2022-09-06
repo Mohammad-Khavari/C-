@@ -1,0 +1,13 @@
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\bin\Debug\netcoreapp3.1\UpcastingDownCasting.exe
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\bin\Debug\netcoreapp3.1\UpcastingDownCasting.deps.json
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\bin\Debug\netcoreapp3.1\UpcastingDownCasting.runtimeconfig.json
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\bin\Debug\netcoreapp3.1\UpcastingDownCasting.runtimeconfig.dev.json
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\bin\Debug\netcoreapp3.1\UpcastingDownCasting.dll
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\bin\Debug\netcoreapp3.1\UpcastingDownCasting.pdb
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\obj\Debug\netcoreapp3.1\UpcastingDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\obj\Debug\netcoreapp3.1\UpcastingDownCasting.AssemblyInfoInputs.cache
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\obj\Debug\netcoreapp3.1\UpcastingDownCasting.AssemblyInfo.cs
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\obj\Debug\netcoreapp3.1\UpcastingDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\obj\Debug\netcoreapp3.1\UpcastingDownCasting.dll
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\obj\Debug\netcoreapp3.1\UpcastingDownCasting.pdb
+C:\Users\iCAM\source\repos\CSharp\UpcastingDowncasting\UpcastingDownCasting\obj\Debug\netcoreapp3.1\UpcastingDownCasting.genruntimeconfig.cache
