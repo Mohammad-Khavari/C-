@@ -12,3 +12,17 @@ C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\Ac
 C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.dll
 C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.pdb
 C:\MyProjectsDevOps\iCAMnet-VS2010-Net35\97_Prototyping\MKh\C#\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.genruntimeconfig.cache
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.exe
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.deps.json
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.json
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.dev.json
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.dll
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.pdb
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csproj.AssemblyReference.cache
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfoInputs.cache
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfo.cs
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.dll
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.pdb
+C:\Users\iCAM\source\repos\CSharp\AccessModifier\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.genruntimeconfig.cache

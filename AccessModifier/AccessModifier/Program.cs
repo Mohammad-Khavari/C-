@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace AccessModifier
 {
   public class Program
@@ -10,6 +11,8 @@ namespace AccessModifier
       person.SetBirthDate(new DateTime(1995,01,01));
 
       Console.WriteLine(person.GetBirthdate());
+
+     
 
     }
   }

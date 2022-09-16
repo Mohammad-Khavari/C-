@@ -22,12 +22,4 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88DDC7FE-FB09-45A2-AC23-54A75653B31B}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://domino.icam.ch:8080/tfs/icamteam
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = AccessModifier.csproj
-		SccLocalPath1 = .
-	EndGlobalSection
 EndGlobal
