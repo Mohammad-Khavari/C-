@@ -1,0 +1,14 @@
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.exe
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.deps.json
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.json
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.dev.json
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.pdb
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.csproj.AssemblyReference.cache
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfo.cs
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.pdb
+C:\Users\iCAM\source\repos\CSharp\MethodOverriding\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.genruntimeconfig.cache
